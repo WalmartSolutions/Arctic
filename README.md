@@ -9,8 +9,8 @@ Key system on a skidded  executor...
 # How To Use
 1. Download Arctic.zip
 2. Unzip Arctic.
-3. Download Roblox-302fe31805ab4542 (Link in file).
 4. Run Arctic REVAMPED.exe.
+5. Click "Submit" to bypass the Firewall!!!
 6. Enjoy.
 
 # Credits
