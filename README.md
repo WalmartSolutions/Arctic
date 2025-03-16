@@ -4,7 +4,7 @@
 
 # Why?
 
-Owner crashed out over my reason
+Owner crashed out over my reason 💔
 
 # How To Use
 1. Download Arctic.zip
