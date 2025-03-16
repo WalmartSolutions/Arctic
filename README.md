@@ -9,9 +9,8 @@ Key system on a skidded  executor...
 # How To Use
 1. Download Arctic.zip
 2. Unzip Arctic.
-4. Run Arctic REVAMPED.exe.
-5. Click "Submit" to bypass the Firewall!!!
-6. Enjoy.
+4. Run ArcticReWork.exe.
+5. Enjoy.
 
 # Credits
 ??? - Making this executor. </br>
