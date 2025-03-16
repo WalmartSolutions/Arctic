@@ -4,7 +4,7 @@
 
 # Why?
 
-Key system on a skidded  executor...
+Owner crashed out over my reason
 
 # How To Use
 1. Download Arctic.zip
@@ -13,5 +13,5 @@ Key system on a skidded  executor...
 5. Enjoy.
 
 # Credits
-??? - Making this executor. </br>
+xuzzzzax (1199056672887427112) - Making this executor. </br>
 3000IQPlay - Cracking & files. </br>
